@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>matlabcontrol</groupId>
+  <artifactId>matlabcontrol</artifactId>
+  <release>4.1.0</release>
+  <versioning>
+    <versions>
+      <version>4.1.0</version>
+    </versions>
+  </versioning>
+  <lastUpdated>20141019143624</lastUpdated>
+</metadata>

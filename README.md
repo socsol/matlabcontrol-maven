@@ -2,8 +2,8 @@ matlabcontrol
 =============
 
 This is a Maven repo for the [matlabcontrol project][1].  You can use
-it by adding https://github.com/socsol/cljlab/blob/master/ as a remote
-repo.
+it by adding https://socsol.github.io/matlabcontrol-maven
+as a remote repo.
 
 For more information see the [matlabcontrol page on Google Code][1].
 

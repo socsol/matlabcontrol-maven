@@ -1,18 +1,20 @@
-matlabcontrol
-=============
+A Maven project for matlabcontrol
+=================================
 
-This is a Maven repo for the [matlabcontrol project][1].  You can use
-it by adding https://socsol.github.io/matlabcontrol-maven
-as a remote repo.
+This project works as a Maven repo for the
+[matlabcontrol project][mc].  You can use it by adding
+https://socsol.github.io/matlabcontrol-maven to your project's repo
+list in your `pom.xml` or whatever.  If you are using
+[Leiningen][lein], you can see [this project][cljlab] for an example
+of a `project.clj` that uses this repo.
 
-For more information see the [matlabcontrol page on Google Code][1].
-
-[1]: https://code.google.com/p/matlabcontrol/
+For more information about matlabcontrol itself see the
+[matlabcontrol page on Google Code][mc].
 
 License
 -------
 
-The following is the license for matlabcontrol (see [here][2]):
+The following is the license for matlabcontrol (see [here][lic]):
 
 > Copyright (c) 2013, Joshua Kaplan
 > All rights reserved.
@@ -45,4 +47,9 @@ The following is the license for matlabcontrol (see [here][2]):
 > ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
 > POSSIBILITY OF SUCH DAMAGE.
 
-[2]: https://code.google.com/p/matlabcontrol/source/browse/trunk/matlabcontrol/src/matlabcontrol/JMIValidator.java
+The maven-specific files have been created by Alastair Pharo.
+
+[mc]: https://code.google.com/p/matlabcontrol/
+[lein]: http://leiningen.org/
+[cljlab]: https://github.com/socsol/cljlab
+[lic]: https://code.google.com/p/matlabcontrol/source/browse/trunk/matlabcontrol/src/matlabcontrol/JMIValidator.java
